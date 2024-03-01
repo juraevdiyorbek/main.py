@@ -45,4 +45,5 @@ write('F',(45,95))
 
 
 wn.mainloop()
+#heart chiqaradi youtubedan olindi zerikishda
     
